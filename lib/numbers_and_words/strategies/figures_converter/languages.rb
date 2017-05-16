@@ -26,6 +26,7 @@ require 'numbers_and_words/strategies/figures_converter/languages/ua'
 require 'numbers_and_words/strategies/figures_converter/languages/pt'
 
 require 'numbers_and_words/strategies/figures_converter/languages/ka'
+require 'numbers_and_words/strategies/figures_converter/languages/vi'
 
 module NumbersAndWords
   module Strategies
